@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB3tYlXdcB8B1M-CgAz6YWwmIvvMo3Wqt0</string>
+	<key>GCM_SENDER_ID</key>
+	<string>787143359912</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.cleangroupchat.groupchatCleanArchitecture.RunnerTests</string>
+	<key>PROJECT_ID</key>
+	<string>groupchat-e2c5a</string>
+	<key>STORAGE_BUCKET</key>
+	<string>groupchat-e2c5a.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:787143359912:ios:54f30de3c7a69c5bcb319d</string>
+</dict>
+</plist>
